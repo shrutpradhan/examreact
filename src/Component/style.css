@@ -1,0 +1,15 @@
+.details{
+ height: 80px;
+ width:70px;
+ background-color: brown;
+}
+.name{
+    height: 80px;
+    width:70px;
+    color: brown; 
+}
+.branch{
+    height: 80px;
+ width:70px;
+ color: brown;
+}
